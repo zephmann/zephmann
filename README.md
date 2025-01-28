@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @zephmann
 - 👀 I’m interested in python, computer graphics, and video art
-- 🌱 I’m currently (slowly) chipping away at learning flask and django
 - 💞️ I’m looking to collaborate on fun python projects or music videos
 - 📫 Feel free to email me at zephmann@gmail.com
